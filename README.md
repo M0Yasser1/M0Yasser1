@@ -63,8 +63,8 @@ I enjoy working with data cleaning, visualization, and building interactive dash
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: mohamed.elbadry@example.com  
-- 💼 LinkedIn: [linkedin.com/in/mohamed-elbadry](https://linkedin.com/in/mohamed-elbadry)  
+- 📧 Email:  mohamed.yasser.2662006@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/mohamed-elbadry](https://www.linkedin.com/in/mohamed-yasser-mo2662006/)  
 - 🌐 Portfolio Website: [https://M0Yasser1.github.io/](https://M0Yasser1.github.io/)  
 
 ---
